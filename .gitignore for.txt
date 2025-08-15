@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Installer output
+dist/
+build/
+
+# IDE configs
+.vscode/
+.idea/
